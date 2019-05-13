@@ -1,2 +1,3 @@
 # DirbDownload
-Dusting off old BASH skills &amp; working with some active recon... Input address, runs dirb, WGETs found items while generating documentation for reporting. 
+Dusting off old BASH skills &amp; working some active recon...
+Script takes input address, runs dirb, WGETs found items while generating documentation for reporting along the way. 
